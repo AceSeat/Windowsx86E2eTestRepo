@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some random content
+=======
+arn:aws:kms:us-east-1:111122223333:key/00000000-1111-2222-aaaa-ffffffffffff
+>>>>>>> test-MSI-amd64-d9db689e-19d8-49e5-854b-2ebe060690af-sens-arn
